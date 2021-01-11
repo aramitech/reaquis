@@ -60,7 +60,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -80,7 +80,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -100,7 +100,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -120,7 +120,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                       </div>
@@ -144,7 +144,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -164,7 +164,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -184,7 +184,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -204,7 +204,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                       </div>
@@ -228,7 +228,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -248,7 +248,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -268,7 +268,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -288,7 +288,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                       </div>
@@ -312,7 +312,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -332,7 +332,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -352,7 +352,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -372,7 +372,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                       </div>
@@ -396,7 +396,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -416,7 +416,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -436,7 +436,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                         <div className="col-xl-3 col-sm-6">
@@ -456,7 +456,7 @@ class Hosting extends Component {
                               <li>20 Projects per month</li>
                               <li>Premium support</li>
                             </ul>
-                            <a className="btn btn-white btn-rounded" href="#">Get Start</a>
+                            <a className="btn btn-white btn-rounded" href="#">Get Started</a>
                           </div>
                         </div>
                       </div>

@@ -7,16 +7,17 @@ import TestimonialV2 from './section-components/testimonial-v2';
 import Team from './section-components/team';
 import Subscribe from './section-components/subscribe';
 import FooterV2 from './global-components/footer-v2';
+import Services from './section-components/services';
 
 const About = () => {
     return <div>
         <Navbar />
-        <PageHeader headertitle="About" />
-        <VideoV2 customclass="pd-top-120 bg-none" />
+        {/* <PageHeader headertitle="About" /> */}
+     
         <WhatWeDo customclass="pd-top-80"/>
-        <Team />
+        {/* <Services customclass="pd-top-112" /> */}
         <TestimonialV2 />
-        <Subscribe />
+
         <FooterV2 />
     </div>
 }

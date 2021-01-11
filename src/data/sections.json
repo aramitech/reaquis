@@ -38,32 +38,30 @@
   },
   "slider_v2": {
     "items": [
+  
       {
-        "title1": "BULK SMS",
+        "title1": "Feedback Center",
         "title2": "",
         "title_color": "",
         "description": "Reach More Customers With More Reliable Bulk SMS",
-        "image_url1": "assets/img/banner/15.png",
-        "video_url": "https://www.youtube.com/watch?v=fLcO57xCgHs",
-        "video_text": "Watch the Video"
+        "image_url1": "assets/img/banner/15.png"
+    
       },
       {
-        "title1": "BULK M-PESA",
+        "title1": "M-Pesa Payments Portal",
         "title2": " ",
         "title_color": "",
         "description": "Send BULK Payments to multiple Contacts",
-        "image_url1": "assets/img/banner/066.png",
-        "video_url": "https://www.youtube.com/watch?v=c7XEhXZ_rsk",
-        "video_text": "Watch the Video"
+        "image_url1": "assets/img/banner/066.png"
+
       },
       {
-        "title1": "BULK AIRTIME",
+        "title1": "Bulk Airtime Portal",
         "title2": "",
         "title_color": "",
         "description": "Send Bulk Airtime To Multiple Contacts",
-        "image_url1": "assets/img/banner/66.png",
-        "video_url": "https://www.youtube.com/watch?v=c7XEhXZ_rsk",
-        "video_text": "Watch the Video"
+        "image_url1": "assets/img/banner/66.png"
+      
       }
     ]
   },
@@ -145,7 +143,7 @@
     "title": "Mobisky",
     "subtitle":"Find the Best Solution",
     "btn_text1": "Try For Free",
-    "btn_text2": "Get Started",
+    "btn_text2": "Get Starteded",
     "bannerimage": "assets/img/banner/6.png"
   },
     "bannerv3": {
@@ -171,9 +169,9 @@
 
   },
   "features": {
-    "sectiontitle": "BULK SMS",
+    "sectiontitle": "SMS and Voice Communication Platform",
     "sectiontitle_color": "",
-    "short_description": "Send bulk Sms to multile people in less than a minute with the use of Mobisky Innovations Bulk SMS system.",
+    "short_description": "Engage your clients and stakeholders, through two-way SMS and Voice communication, surveys, analytics and deep conversations.",
     "btn_text": "View Details",
     "btn_url": "#",
     "featurescontent1": [
@@ -568,9 +566,9 @@
 
   },
   "softboxmanage": {
-    "sectiontitle_part1": "Mobile App Development",
+    "sectiontitle_part1": "Reports and Analytics",
     "sectiontitle_color": " ",
-    "short_description":"We develope mobile applications for both android and IOS smart phones",
+    "short_description":"All our products provide you with high quality reports and analytics to help your decision-making process.",
     "imgurl": "assets/img/we-provide/4.png"
   },
   "video": {
@@ -600,10 +598,10 @@
   },
     "videov2": {
     "title": " <span>",
-    "title_color": "SMS Survey ?",
-    "description": "<p>You can now power your research using our automated survey distribution. Setting an automated survey distribution lets you collect real-time responses through SMS. Collect effective and reliable survey data and provide the respondents with a unique experience. The ease of text message survey platform helps respondents save their time and energy by responding to the survey anytime, anywhere.</p>",
+    "title_color": "Fill in this form to request for a demo",
+    "description": "<p> Mobisky will always have a really simple onboarding process which takes between hours  to few days. <br><br> You can contact our sales department through the following phone number: +254 720 003 004 </p>",
     "image_url": "assets/img/we-provide/01.png",
-    "video_url": "https://www.youtube.com/watch?v=c7XEhXZ_rsk",
+
     "list": [
       {
         "icon": "assets/img/icons/9.png",
@@ -624,34 +622,34 @@
     ]
   },
   "services":{
-    "sectiontitle": "What",
-    "sectiontitle_color": "Service",
-    "sectiontitle_2": "We are Providing?",
-    "short_description": "Offer your business with the best assistance for growth.",
+    "sectiontitle": "",
+    "sectiontitle_color": " ",
+    "sectiontitle_2": "",
+    "short_description": "",
     "items":[
         {
-          "title": "Branding Idendity",
+          "title": "Get free Sender ID for safaricom and airtel and 15,000 SMSes when you pay  KES 15,000",
           "icon": "assets/img/service/project.png",
           "url": "#",
-          "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+          "content": "We help you integrate SMS into you core ERP and internal system to enable communication with your customers, enabling you to send SMS receipts, automated utility bills reminders, appointments and payment confirmations . "
         },
         {
-          "title": "Business Consultancy",
+          "title": "Bulk Airtime ",
           "icon": "assets/img/service/hiring.png",
           "url": "#",
-          "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+          "content": "Transfer or topup airtime to employees and customers and get reports for monthly used airtime amount."
         },
         {
-          "title": "UI/UX - Design",
+          "title": "USSD",
           "icon": "assets/img/service/checklist.png",
           "url": "#",
-          "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+          "content": " Build real time interactive experiences for your users that is accessible on both feature and smartphones. Easily integrate our simple and reliable USSD API and start delivering scalable solutions to your users! ."
         },
         {
-          "title": "Market Analysis",
+          "title": "Two way SMS",
           "icon": "assets/img/service/analytics.png",
           "url": "#",
-          "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
+          "content": "Build a solution that provides two-way communication service using short codes. Whether you are looking to share information with you users or collect feedback, two way SMS is a great way to enrich customer engagement."
         }
       ]
  
@@ -1145,9 +1143,7 @@
     "short_description": "Offer your business with the best assistance for growth."
   },
   "screenshots": {
-    "sectiontitle": "Request A",
-    "sectiontitle_color": "Meeting",
-    "short_description": "",
+
     "images": [
 
     ]
@@ -1180,71 +1176,73 @@
     ]
   },
   "pricingtable": {
-    "sectiontitle": "Choose your",
-    "sectiontitle_color": "pricing",
+    "sectiontitle": "We offer unbeatable pricing that accommodates your",
+    "sectiontitle_color": "budget",
     "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests.",
     "tables": [
       {
-        "title": "BULK SMS BASIC PLAN",
+        "title": "BULK SMS ",
         "currency": "$",
-        "price": "Free",
-        "duration": "/anully",
+        "price": "ALL TELCOS ",
+        "duration": "",
         "icon": "assets/img/price/1.png",
         "url": "#",
         "features": [
-          "1000 Messages per month",
-          "2 GB file storage",
-          "20 Projects per month",
-          "Premium support"
+          "0-19999=   Ksh.   0.7",
+          "20,000-99,000= Ksh. 0.6",
+          "100,000-399,999= Ksh. 0.5",
+          "400,000+=   Ksh.    0.4"
         ]
       },
+  
       {
-      "title": "SMALL BUSINESS",
+        "title": "SenderID",
         "currency": "$",
-        "price": "11",
-        "duration": "/anully",
-        "icon": "assets/img/price/2.png",
-        "url": "#",
-        "features": [
-          "1000 Messages per month",
-          "2 GB file storage",
-          "20 Projects per month",
-          "Premium support"
-        ]
-      },
-      {
-        "title": "MEDIUM COMPANY",
-        "currency": "$",
-        "price": "22",
-        "duration": "/anully",
+        "price": "TELCOS",
+        "duration": "/SETUP",
         "icon": "assets/img/price/3.png",
         "url": "#",
         "features": [
-          "1000 Messages per month",
-          "2 GB file storage",
-          "20 Projects per month",
-          "Premium support"
+          "Safaricom and Airtel = Ksh. 13,900",
+          "Safaricom Only = Ksh. 8550",
+          "Airtel Only = Ksh. 8550",
+          "Telcom = Ksh. 4500",
+          "Equitel = Ksh. 9000"
         ]
       },
       {
-        "title": "ENTERPRISE",
+        "title": "ShortCodes",
         "currency": "$",
-        "price": "33",
-        "duration": "/anully",
+        "price": "Dedicated Shortcode",
+        "duration": "",
         "icon": "assets/img/price/4.png",
         "url": "#",
         "features": [
-          "1000 Messages per month",
-          "2 GB file storage",
-          "20 Projects per month",
-          "Premium support"
+          "Safaricom, Airtel,Equitel $ Telcom",
+          "Deposit = Ksh 10,000"
+          
+     
         ]
-      }
+      },
+      {
+        "title": "Dedicated Shortcode",
+          "currency": "$",
+          "price": "Setup = Free",
+          "duration": "",
+          "icon": "assets/img/price/2.png",
+          "url": "#",
+          "features": [
+            "Monthly Maitenance = KES 15, 000",
+          "Shared Shortcode Setup = KES 5,000",
+          "Monthly Maitenance = KES 5, 000",
+          "VAT exclusive"
+          ]
+        }
     ]
   },
   "pricingtablev2": {
-    "sectiontitle": "Choose your",
-    "sectiontitle_color": "pricing",
+    "sectiontitle": "We offer unbeatable pricing that accommodates your ",
+    "sectiontitle_color": "budget",
     "short_description": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests. Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests.",
     "tables": [
       {
@@ -1255,7 +1253,7 @@
         "icon": "assets/img/price/1.png",
         "url": "#",
         "features": [
-          "1000 Messages per month",
+          "1000 ddddddddddMessages per month",
           "2 GB file storage",
           "20 Projects per month",
           "Premium support"
@@ -1293,77 +1291,72 @@
   },
 
   "whatwedo": {
-    "sectiontitle": "What We",
-    "sectiontitle_color": "Do?",
+    "sectiontitle": "",
+    "sectiontitle_color": "",
     "offertitel":"What we",
     "offer_color": "Offer?",
-    "short_description": "Mobisky One of the best Software Development company. Mobisky is at the forefront as the most innovative Aplications development company. Our cost efficient and structured teamwork justifies our position.",
+    "short_description": "",
     "items": [
       {
-        "title": "Consultation",
+        "title": "Who we are?",
         "icon": "assets/img/startup/service/1.png",
-        "content": "Mobisky One of the best Software Development company.Mobisky is the forefront as the most innovative."
+        "content": "MobiSky Innovations is a mobile technology solutions development company seeking to provide software solutions to drive and support businesses processes, with a major focus on efficiency, cost saving and decision support."
       },
       {
-        "title": "Brand & Identity",
+        "title": "Vision",
         "icon": "assets/img/startup/service/2.png",
-        "content": "Mobisky One of the best Software Development company.Mobisky is the forefront as the most innovative."
+        "content": "Our vision is to be the lead in ICT for Development using mobile based platforms in Africa."
       },
       {
-        "title": "Web Design",
+        "title": "Mission",
         "icon": "assets/img/startup/service/3.png",
-        "content": "Mobisky One of the best Software Development company.Mobisky is the forefront as the most innovative."
-      },
-      {
-        "title": "Apps Development",
-        "icon": "assets/img/startup/service/4.png",
-        "content": "Mobisky One of the best Software Development company.Mobisky is the forefront as the most innovative."
+        "content": "To develop business solutions that run on a mobile platform to drive business processes and decision support."
       }
     ]
   },
   "testimonial":{
-    "sectiontitle": "What Our",
+    "sectiontitle": "What Our77777",
     "sectiontitle_color": "Client Say?",
     "short_description": "",
     "items":[
     {
-      "client": "Ema Wilson",
+      "client": "Mathew M",
       "designation": "CEO at craft",
       "star": 5,
       "imgurl": "assets/img/client/5.png",
       "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
     },
     {
-      "client": "John Mojika",
+      "client": "John Munyaka",
       "designation": "CTO of Uxa",
       "star": 5,
       "imgurl": "assets/img/client/6.png",
       "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
     },
     {
-      "client": "Refule Mia",
+      "client": "Maxwel Wambua",
       "designation": "Branding Idendity",
       "star": 5,
       "imgurl": "assets/img/client/4.png",
       "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
     },
     {
-      "client": "Ema Wilson",
-      "designation": "CTO of Uxa",
+      "client": "Ema Kagunda",
+      "designation": "Grapghics",
       "star": 5,
       "imgurl": "assets/img/client/5.png",
       "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
     },
     {
-      "client": "John Mojika",
-      "designation": "CTO of Uxa",
+      "client": "Samuel Oloo",
+      "designation": "BRAND ID",
       "star": 5,
       "imgurl": "assets/img/client/6.png",
       "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
     },
     {
-      "client": "John Mojika",
-      "designation": "CTO of Uxa",
+      "client": "Andrew Wafula",
+      "designation": "MLM",
       "star": 5,
       "imgurl": "assets/img/client/4.png",
       "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
@@ -1372,31 +1365,52 @@
   ]
 },
 "testimonial_v1":{
-    "sectiontitle": "What Our",
-    "sectiontitle_color": "Client Say?",
+    "sectiontitle": "Some of our ",
+    "sectiontitle_color": "Clients", 
     "short_description": "",
     "items":[
-    {
-      "client": "Ema Wilson",
-      "designation": "CEO at craft",
-      "star": 5,
-      "imgurl": "assets/img/client/1.png",
-      "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
-    },
-    {
-      "client": "John Mojika",
-      "designation": "CTO of Uxa",
-      "star": 5,
-      "imgurl": "assets/img/client/2.png",
-      "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
-    },
-    {
-      "client": "Refule Mia",
-      "designation": "Branding Idendity",
-      "star": 5,
-      "imgurl": "assets/img/client/3.png",
-      "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
-    }
+      {
+        "client": "",
+        "designation": "",
+        "star": 5,
+        "imgurl": "assets/img/client/kebs.png",
+        "content": ""
+      },
+      {
+        "client": "",
+        "designation": "",
+        "star": 5,
+        "imgurl": "assets/img/client/unwomen.png",
+        "content": ""
+      },
+      {
+        "client": "",
+        "designation": "",
+        "star": 5,
+        "imgurl": "assets/img/client/unhcr.png",
+        "content": ""
+      },
+      {
+        "client": "",
+        "designation": "",
+        "star": 5,
+        "imgurl": "assets/img/client/ilri.png",
+        "content": ""
+      },
+      {
+        "client": "",
+        "designation": "",
+        "star": 5,
+        "imgurl": "assets/img/client/hashi.png",
+        "content": ""
+      },
+      {
+        "client": "",
+        "designation": "",
+        "star": 5,
+        "imgurl": "assets/img/client/kirinyaga.png",
+        "content": ""
+      }
   ]
 },
 "testimonial_v2":{
@@ -1408,13 +1422,13 @@
       "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
     },
     {
-      "client": "John Mojika",
+      "client": "Andrew Wafula",
       "designation": "CTO of Uxa",
       "clientimg": "assets/img/business/testimonial/3.png",
       "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
     },
     {
-      "client": "Refule Mia",
+      "client": "Ema Kagunda",
       "designation": "Branding Idendity",
       "clientimg": "assets/img/business/testimonial/3.png",
       "content": "Our support team will get assistance from AI-powered suggestions, making it quicker than ever to handle support requests."
@@ -1664,13 +1678,13 @@
 "contactinfo": {
   "title":"Contact info:",
   "description": "Make that call",
-  "address": "9<sup>th</sup> Planet Kabarnet Road",
-  "mobile": "+254 720003004",
+  "address": "Nine<sup></sup> Planets Kabarnet Road Nairobi",
+  "mobile": "+254 720 003 004",
   "mail": "info@mobisky.biz"
 },
 "contactform": {
-  "title": "Send you",
-  "title_color": "inquary",
+  "title": "Send your",
+  "title_color": "inquiry",
   "description": "Why I say old chap that is, spiffing jolly good a load of old tosh spend a penny tosser arse over tit, excuse my French owt to do with me up the kyver matie boy.",
   "image": "assets/img/others/21.png"
   

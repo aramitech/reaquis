@@ -16,6 +16,8 @@ class What_We_Do extends Component {
                     <div className="row justify-content-center">
                         <div className="col-xl-6 col-lg-10">
                             <div className="section-title text-center">
+                            {/* <p><h2 style="background-color:#e77817;">About Us</h2></p>  */}
+                            <p><h2 >About Us</h2></p>   
                                 <h2 className="title">{data.sectiontitle} <span>{data.sectiontitle_color}</span></h2>
                                 <p>{data.short_description}</p>
                             </div>

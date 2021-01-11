@@ -24,27 +24,27 @@ class Navbar extends Component {
                                       </li>
                                       <li className="cart">
                                         <div className="notification">
-                                              <a href="#">
+                                              {/* <a href="#">
                                                 <i className="la la-shopping-cart" />
                                                 <span className="notification-count ">2</span>
-                                              </a>
+                                              </a> */}
                                        </div>
                                         <div className="widget_shopping_cart_content">
                                           <ul>
-                                            <li>
+                                            {/* <li>
                                               <div className="media">
                                                 <div className="media-left">
                                                   <img src={publicUrl+"assets/img/checkout/7.png" }alt="img" />
                                                 </div>
                                                 <div className="media-body">
-                                                  <a className="title" href="#">Smart watch red color</a>
+                                                  <a className="title" href="#">Smart444 watch red color</a>
                                                   <p>Quantity: 1</p>
                                                   <span className="price">$150.00</span>
                                                 </div>
                                               </div>
                                               <a className="remove-product" href="#"><span className="ti-close" /></a>
-                                            </li>
-                                            <li>
+                                            </li> */}
+                                            {/* <li>
                                               <div className="media">
                                                 <div className="media-left">
                                                   <img src={publicUrl+"assets/img/checkout/8.png"} alt="img" />
@@ -56,25 +56,25 @@ class Navbar extends Component {
                                                 </div>
                                               </div>
                                               <a className="remove-product" href="#"><span className="ti-close" /></a>
-                                            </li>
+                                            </li> */}
                                           </ul>
                                           <p className="total">
-                                            <strong>Subtotal:</strong> 
-                                            <span className="amount">
+                                            {/* <strong>Subtotal:</strong>  */}
+                                            {/* <span className="amount">
                                               <span className="woocommerce-Price-currencySymbol">$</span>129.00
-                                            </span>       
+                                            </span>        */}
                                           </p>
-                                          <p className="buttons">
+                                          {/* <p className="buttons">
                                               <Link to="/checkout" className="button">View Card &amp; Check out</Link>
-                                          </p>
+                                          </p> */}
                                         </div>
                                       </li>
-                                      <li className="notification">
+                                      {/* <li className="notification">
                                         <a href="#">
                                           <i className="fa fa-heart-o" />
                                           <span className="notification-count">0</span>
                                         </a>
-                                  </li>
+                                  </li> */}
                                 </ul>
                             </div>
                             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#Riyaqas_main_menu" 
@@ -106,8 +106,9 @@ class Navbar extends Component {
                                         <li><Link to="/home-v9">Hosting</Link></li>
                                     </ul> */}
                                 </li>
-                                <li><Link to="/about">About</Link></li>
+                                <li><Link to="/about">About3</Link></li>
                                         <li><Link to="/services">Service</Link></li>
+                                        <li><Link to="/pricing">Pricing</Link></li>
 {/*                          
                                 <li className="menu-item-has-children">
                                     <Link to="/blog">Blog</Link>
@@ -117,7 +118,7 @@ class Navbar extends Component {
                                         <li><Link to="/blog-details">Blog Details</Link></li>
                                     </ul>
                                 </li> */}
-                                <li className="menu-item-has-children">
+                                 {/* <li className="menu-item-has-children">
                                     <Link to={'#'}>Pages</Link>
                                     <ul className="sub-menu">
                                         <li><Link to="/about">About</Link></li>
@@ -131,7 +132,7 @@ class Navbar extends Component {
                                         <li><Link to="/comming-soon">Comming Soon</Link></li>
                                         <li><Link to="/error">Error 404</Link></li>
                                     </ul>
-                                </li>
+                                </li>  */}
                         
                                 <li>
                                     <Link to="/contact">Contact</Link>
@@ -143,7 +144,7 @@ class Navbar extends Component {
                                 <li className="search">
                                     <i className="ti-search" />
                                       </li>
-                                      <li className="cart">
+                                      {/* <li className="cart">
                                        <div className="notification">
                                               <a href="#">
                                                 <i className="la la-shopping-cart" />
@@ -194,7 +195,7 @@ class Navbar extends Component {
                                           <i className="fa fa-heart-o" />
                                           <span className="notification-count">0</span>
                                         </a>
-                                  </li>
+                                  </li> */}
                             </ul>
                         </div>
                     </div>

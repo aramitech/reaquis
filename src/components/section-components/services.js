@@ -28,7 +28,7 @@ class Services_V1 extends Component {
                                     <h6><a href={anchor}>{item.title}</a></h6>
                                     <p>{item.content}</p>
                                     <div className="read-more">
-                                        <a href={item.url}><img src={publicUrl+'assets/img/service/arrow.png'} alt={imgattr}/></a>
+                                        <a href={item.url}><img src={publicUrl+'assets/img/service/arrow.png'} alt={imgattr}/>Get started</a>
                                     </div>
                                 </div>
                             </div>

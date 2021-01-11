@@ -1,5 +1,6 @@
 import React from 'react';
 import sectiondata from '../../data/sections.json';
+import { Link } from 'react-router-dom';
 
 const Pricing_Table = () => {
 
@@ -31,7 +32,7 @@ const Pricing_Table = () => {
                                  <li key={i}>{feature}</li>
                                 )}
                                 </ul>
-                                <a className="btn btn-white btn-rounded" href={item.url}>Get Start</a>
+                                <li><Link to="/home-v5"  className="btn btn-white btn-rounded"  >Get-Started</Link></li> 
                             </div>
                         </div>
                     )}

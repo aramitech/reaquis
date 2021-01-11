@@ -11,7 +11,7 @@ class Contact_Info extends Component {
                 <div className="map-area-wrap">
                     <div className="row no-gutters">
                         <div className="col-lg-8">
-                        <iframe title="riyaqas-map" width="1075" height="440" src="https://maps.google.com/maps?width=700&amp;height=440&amp;hl=en&amp;q=London%2C%20United%20Kingdom+(Title)&amp;ie=UTF8&amp;t=&amp;z=10&amp;iwloc=B&amp;output=embed" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"></iframe>
+                        <iframe title="riyaqas-map" width="1075" height="440" src="https://maps.google.com/maps?width=700&amp;height=440&amp;hl=en&amp;q=Kenya%2C%20Nairobi%20KabarnetRoad+(Title)&amp;ie=UTF8&amp;t=&amp;z=10&amp;iwloc=B&amp;output=embed" frameBorder="0" scrolling="no" marginHeight="0" marginWidth="0"></iframe>
                         
                         </div>  
                         <div className="col-lg-4 desktop-center-item">

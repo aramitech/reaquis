@@ -1,6 +1,69 @@
 import React, { Component } from 'react';
 
+//bootstrap
+//import 'bootstrap/dist/css/bootstrap.min.css';
+//Include Sweetalert
+import Swal from 'sweetalert2'
+//axios for api request
+import axios from 'axios';
+
+
+
 class Contact_Form extends Component {
+
+
+    state = {
+        email: '',
+        fnames: '',
+        phone: '',
+       
+    };
+handleAdd= async e =>{
+    console.log("Hello worldeeeeeeeeeeeeeeeeeeee!"); 
+ await this.setState({
+      [e.target.name] : e.target.value
+     
+ })
+//  const txtFieldState = {
+//     value: "",
+//     valid: true,
+//     typeMismatch: false,
+//     errMsg: "" //this is where our error message gets across
+// };
+
+
+
+}
+handleSubmit = (e) =>{
+  
+    e.preventDefault();
+    // console.log( "Text Here");
+     console.log(this.state)
+    // let formData = new FormData();
+    // formData.append("text",this.state.text);
+    // const url = "http://localhost:80/ss/savecontact.php.php";
+     const url = "savecontact.php";
+    axios.post(url,this.state)
+    .then(res=>console.log(res.data))
+    .catch(err=> console.log(err));
+    let res=""
+         //Success alert
+       Swal.fire({
+      title: 'Your inquiry was Sent',
+    //   text: this.state,
+      type: 'success',
+      
+    });
+    
+
+}
+render()
+{
+
+   return {
+
+   } 
+}
 
     render() {
         let anchor = '#'
@@ -13,7 +76,7 @@ class Contact_Form extends Component {
                     <div className="row justify-content-center">
                         <div className="col-xl-6 col-lg-8">
                             <div className="section-title text-center w-100">
-                                <h2 className="title">Send you <span>inquary</span></h2>
+                                <h2 className="title">Send your <span>inquiry</span></h2>
                                 <p> Transform your customer experiences with programmable messaging, voice, Shortcodes and more.</p>
                             </div>
                         </div>
@@ -27,30 +90,39 @@ class Contact_Form extends Component {
                                 <div className="row custom-gutters-16">
                                     <div className="col-md-6">
                                         <div className="single-input-wrap">
-                                            <input type="text" className="single-input"/>
+                                            <input type="text" ref="fnames" value={this.state.fnames} onChange={this.handleAdd} name="fnames" className="single-input"/>
                                             <label>Name</label>
                                         </div>
                                     </div>
                                     <div className="col-md-6">
                                         <div className="single-input-wrap">
-                                            <input type="text" className="single-input"/>
+                                            <input type="text" ref="email" name="email"   ref="organization" value={this.state.organization} onChange={this.handleAdd} className="single-input"/>
                                             <label>E-mail</label>
                                         </div>
                                     </div>
                                     <div className="col-md-12">
                                         <div className="single-input-wrap">
-                                            <input type="text" className="single-input"/>
+                                            <input type="text" ref="subject"  ref="organization" value={this.state.organization} onChange={this.handleAdd}  name="organization" className="single-input"/>
+                                            <label>Organization</label>
+                                        </div>
+                                    </div>
+
+                                    <div className="col-md-12">
+                                        <div className="single-input-wrap">
+                                            <input type="text" ref="subject"  ref="subject" value={this.state.subject} onChange={this.handleAdd}  name="subject" className="single-input"/>
                                             <label>Subject</label>
                                         </div>
                                     </div>
                                     <div className="col-md-12">
                                         <div className="single-input-wrap">
-                                            <textarea className="single-input textarea" cols="20"></textarea>
+                                            <textarea className="single-input textarea"  value={this.state.message} onChange={this.handleAdd}  ref="message" name="message" cols="20"></textarea>
                                             <label className="single-input-label">Message</label>
                                         </div>
                                     </div>
                                     <div className="col-12">
-                                        <a className="btn btn-red mt-0" href={anchor}>Send</a>
+
+                                    <button type="submit" className="btn btn-primary" onClick={this.handleSubmit} >Submit</button>  
+
                                     </div> 
                                 </div>
                             </form>

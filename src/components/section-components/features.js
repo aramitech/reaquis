@@ -29,11 +29,10 @@ class Features extends Component {
                                     alt="feature"
                                   />
                                   <div className="media-body">
-                                    <h6>BULK AIRTIME</h6>
+                                    <h6>Bulk Airtime Portal</h6>
                                     <p>
-                                    Transfer or topup airtime to emloyees and customers and
-                                     get reports for monthly used airtime amount.
-                                    </p>
+                                    Transfer or topup airtime to employees and customers and get reports for monthly used airtime amount.
+                                                                        </p>
                                   </div>
                                 </div>
                               </div>
@@ -45,9 +44,9 @@ class Features extends Component {
                                     alt="feature"
                                   />
                                   <div className="media-body">
-                                    <h6>BULK M-PESA</h6>
+                                    <h6>M-Pesa Payments Portal</h6>
                                     <p>
-                                    Send payment transactions to multiple people in simple processes.
+                                    Pay individuals and businesses instantly, manage and track your money from one spot
                                     </p>
                                   </div>
                                 </div>
@@ -62,9 +61,9 @@ class Features extends Component {
                                     className="media-left"
                                     src={publicUrl+"assets/img/features/3.png"} alt="feature"/>
                                   <div className="media-body">
-                                    <h6>USSD</h6>
+                                    <h6>SMS and Airtime APIs</h6>
                                     <p>
-                                    Build real-time interactive text based solutions that can be accessed on every type of mobile phone..
+                                    We provide quick integrations of SMS and Airtime APIs to your existing and new systems.
                                     </p>
                                   </div>
                                 </div>
@@ -77,9 +76,9 @@ class Features extends Component {
                                     alt="feature"
                                   />
                                   <div className="media-body">
-                                    <h6>VOice</h6>
+                                    <h6>Mobile Apps and Custom Software Development</h6>
                                     <p>
-                                    Reach more customers worldwide with crystal-clear voice messaging .
+                                    We use cutting edge technologies to develop high end mobile apps and custom software to meet your needs.
                                     </p>
                                   </div>
                                 </div>

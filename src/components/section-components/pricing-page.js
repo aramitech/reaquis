@@ -17,9 +17,7 @@ class Team extends Component {
                       <h2 className="title">
                         { sectiondata.pricingtable.sectiontitle } <span>{sectiondata.pricingtable.sectiontitle_color}</span>
                       </h2>
-                      <p>
-                       {sectiondata.teampage.short_description}
-                      </p>
+                    
                     </div>
                   </div>
                 </div>
@@ -37,7 +35,7 @@ class Team extends Component {
                                  <li key={i}>{feature}</li>
                                 )}
                                 </ul>
-                                <a className="btn btn-white btn-rounded" href={item.url}>Get Start</a>
+                                <a className="btn btn-white btn-rounded" href={item.url}>Get Started</a>
                             </div>
                         </div>
                     )}
@@ -53,14 +51,14 @@ class Team extends Component {
                       <h2 className="title">
                         { sectiondata.pricingtable.sectiontitle } <span>{sectiondata.pricingtable.sectiontitle_color}</span>
                       </h2>
-                      <p>
+                      {/* <p>
                        {sectiondata.teampage.short_description}
-                      </p>
+                      </p> */}
                     </div>
                   </div>
                 </div>
                 <div className="row no-gutters justify-content-center">
-                 {sectiondata.pricingtablev2.tables.map( ( item, i ) => 
+                 {/* {sectiondata.pricingtablev2.tables.map( ( item, i ) => 
                     <div key={ i } className="col-xl-3 col-lg-4 col-sm-6">
                       <div className="single-pricing text-center">
                         <h6 className="title">{item.title}</h6>
@@ -75,10 +73,10 @@ class Team extends Component {
                                  <li key={i}>{feature}</li>
                             )}
                         </ul>
-                        <a className="btn btn-white btn-rounded" href={item.url}>Get Start</a>
+                        <a className="btn btn-white btn-rounded" href={item.url}>Get Started</a>
                       </div>
                     </div>
-                   )}
+                   )} */}
                 </div>
               </div>
             </div>

@@ -23,8 +23,9 @@ class WordProcessing extends Component {
                     <div className="work-processing-details">   
                       <div className="section-title style-four">
                         <h1 className="counting-number">1</h1>
-                        <h2 className="title">Receive <span>Client Requirement</span> and understanding them Process</h2>
-                        <p>Why I say old chap that is, spiffing jolly good a load of old tosh spend a penny tosser arse over tit, excuse my French owt to do with me up the kyver matie boy.</p>
+                        <h2 className="title">Send Voive  <span> Message </span>  </h2>
+               
+                        <p>Send Voice mesage to your clients.</p>
                       </div>
                     </div>
                   </div>
@@ -39,8 +40,8 @@ class WordProcessing extends Component {
                     <div className="work-processing-details">   
                       <div className="section-title style-four">
                         <h1 className="counting-number">2</h1>
-                        <h2 className="title"><span>Collect Information</span> and Analysis Client Requirement</h2>
-                        <p>Why I say old chap that is, spiffing jolly good a load of old tosh spend a penny tosser arse over tit, excuse my French owt to do with me up the kyver matie boy.</p>
+                        <h2 className="title"><span>Send Custom  </span> Message </h2>
+                        <p>Design a custom message from Excel in any format.</p>
                       </div>
                     </div>
                   </div>
@@ -55,7 +56,7 @@ class WordProcessing extends Component {
                     <div className="work-processing-details">   
                       <div className="section-title style-four">
                         <h1 className="counting-number">3</h1>
-                        <h2 className="title">We go to <span>Sketch/Wireframe</span> to mapping a Design</h2>
+                        <h2 className="title">Inbox <span>Tags</span> </h2>
                         <p>Why I say old chap that is, spiffing jolly good a load of old tosh spend a penny tosser arse over tit, excuse my French owt to do with me up the kyver matie boy.</p>
                       </div>
                     </div>
@@ -71,13 +72,13 @@ class WordProcessing extends Component {
                     <div className="work-processing-details">   
                       <div className="section-title style-four">
                         <h1 className="counting-number">4</h1>
-                        <h2 className="title">Finally All Process We do <span>Implement</span></h2>
-                        <p>Why I say old chap that is, spiffing jolly good a load of old tosh spend a penny tosser arse over tit, excuse my French owt to do with me up the kyver matie boy.</p>
+                        <h2 className="title">Create Survey<span>Messaages</span></h2>
+                        <p>Create survey questions for your clients and let them answer one question by one.</p>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="row justify-content-center custom-gutters-16 single-work-processing">
+                {/* <div className="row justify-content-center custom-gutters-16 single-work-processing">
                   <div className="col-xl-5 col-md-6 order-lg-12">
                     <div className="thumb swp-right-thumb">
                       <img src={publicUrl+"assets/img/work-processing/5.png" }alt="img" />
@@ -92,7 +93,7 @@ class WordProcessing extends Component {
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
         </div>

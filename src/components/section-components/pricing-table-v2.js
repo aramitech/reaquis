@@ -37,7 +37,7 @@ const Pricing_Table_V2 = () => {
                                  <li key={i}>{feature}</li>
                             )}
                         </ul>
-                        <a className="btn btn-white btn-rounded" href={item.url}>Get Start</a>
+                        <a className="btn btn-white btn-rounded" href={item.url}>Get Started</a>
                       </div>
                     </div>
                    )}

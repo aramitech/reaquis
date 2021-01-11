@@ -68,7 +68,7 @@ class Footer_V2 extends Component {
                                         <div className="about_recent_post">
                                             {footerdata.latestnews.items.map( ( item, i ) => 
                                                 <div key={i} className="media">
-                                                    <img src={publicUrl+item.image_url} alt={imgAlt} />
+                                                    {/* <img src={publicUrl+item.image_url} alt={imgAlt} /> */}
                                                     <div className="media-body">
                                                         <h6 className="riyaqas-nav"><Link to={ item.url }>{item.title}</Link></h6>
                                                         <span>{item.date}</span>

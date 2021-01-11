@@ -7,6 +7,7 @@ class Marketing extends Component {
      var publicUrl = process.env.PUBLIC_URL+'/'
      var imgattr = 'image'
      const $ = window.$;
+     
     
           var $screenshotCarousel = $('.marketing-slider');
         if ($screenshotCarousel.length > 0) {

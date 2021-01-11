@@ -9,10 +9,10 @@ import FooterV2 from './global-components/footer-v2';
 const PricingPage = () => {
     return <div>
         <Navbar />
-        <PageHeader headertitle="Pricing" />
+        {/* <PageHeader headertitle="Pricing" /> */}
         <Pricing customclass="pd-top-112" />
-        <TestimonialV2 />
-        <Subscribe />
+        {/* <TestimonialV2 />
+        <Subscribe /> */}
         <FooterV2 />
     </div>
 }

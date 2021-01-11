@@ -34,6 +34,7 @@ class Services_V2 extends Component {
                                       <p>{ item.content }</p>
                                       <a href={ item.url }>View Details<i className="la la-long-arrow-right" /></a>
                                     </div>
+                                  
                                   </div>
                                 </div>                
                               </div>

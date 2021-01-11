@@ -1,38 +1,19 @@
 {
-  "footerlogo": "assets/img/logo.png",
+  "footerlogo": "assets/img/mobisky-2.png",
   "footertext": "We develop business solutions that run on a mobile platform to drive business processes and decision support.",
   "footerbg": "assets/img/bg/footer.png",
   "socialicon": [
-      {
-        "icon": "fa fa-dribbble",
-        "url": "https://www.facebook.com/codingeek.net/"
-      },
-      {
-        "icon": "fa fa-facebook",
-        "url": "https://www.facebook.com/codingeek.net/"
-      },
-      {
-        "icon": "fa fa-twitter",
-        "url": "https://twitter.com/codingeeknet"
-      },
-      {
-        "icon": "fa fa-linkedin",
-        "url": "https://www.linkedin.com/company/codingeek/about/"
-      },
-      {
-        "icon": "fa fa-instagram",
-        "url": "https://www.instagram.com/codingeeknet/"
-      }
+
     ],
   "copyrighttext": " © Mobisky 2020 All rights reserved",
   "contactwidget": {
-    "title": "Contact",
-    "address": "9th Planet Kabarnet Road",
-    "contact": "+254 720003004",
+    "title": "Contacts",
+    "address": "Nine Planets Kabarnet Road",
+    "contact": "+254 720 003 004",
     "email": "info@mobisky.biz"
   },
   "quicklink": {
-    "title": "Quick Link",
+    "title": "Quick Links",
     "links": [
       {
         "title": "Home",
@@ -46,10 +27,7 @@
         "title": "Services",
         "url": "services"
       },
-      {
-        "title": "Blog",
-        "url": "blog"
-      },
+     
       {
         "title": "Contact",
         "url": "contact"
@@ -82,20 +60,12 @@
     ]
   },
   "latestnews": {
-    "title": "Latest News",
+    "title": "Customer and Stakeholder Engagement",
     "items": [
       {
-        "title": "New Feature Added",
-        "image_url": "assets/img/blog/widget1.png",
-        "url": "/blog-details",
-        "date": "21 August 2019"
-      },
-      {
-        "title": "Business Development",
-        "image_url": "assets/img/blog/widget2.png",
-        "url": "/blog-details",
-        "date": "21 August 2019"
+        "date": "Engage your customers and stakeholders using our two-way communication platforms and surveys tools. We will also provide you with analytics and insights that enrich and transform your engagement initiatives."
       }
+ 
 
     ]
   }

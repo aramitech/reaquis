@@ -23,8 +23,8 @@ class Slider_V2 extends Component {
                                                 <h1 className="title s-animate-1">{item.title1} <span>{item.title_color}</span> {item.title2}</h1>
                                                 <p className="s-animate-2">{parse( item.description )}</p>
                                                 <div className="btn-wrapper desktop-left padding-top-20">
-                                                    <a className="btn-appstore s-animate-3" href={item.button1_url}><img src={publicUrl+item.button1_image} alt={imgattr} /></a>
-                                                    <a className="btn-playstore s-animate-4" href={item.button1_url}><img src={publicUrl+item.button2_image} alt={imgattr} /></a>
+                                                    {/* <a className="btn-appstore s-animate-3" href={item.button1_url}><img src={publicUrl+item.button1_image} alt={imgattr} /></a>
+                                                    <a className="btn-playstore s-animate-4" href={item.button1_url}><img src={publicUrl+item.button2_image} alt={imgattr} /></a> */}
                                                 </div>
                                                 <div className="hover s-animate-5">
                                                     <a href={item.video_url} className="video-play-btn mfp-iframe"><i className="fa fa-play"></i></a>
