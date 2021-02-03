@@ -28,10 +28,9 @@ class Faq extends Component {
                               </button>
                             </h2>
                           </div>
-                          <div id={"collapseOne"+i} className={"collapse "+ item.class} aria-labelledby="headingOne" data-parent="#accordion">
+                          <div id={"collapseOne"+i} className={"collapse "+ item.class} aria-labelledby="feadingOne" data-parent="#accordion">
                             <div className="card-body">
-                              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour
-                            </div>
+                            { item.content }                            </div>
                           </div>
                         </div>
                       ) }

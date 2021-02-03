@@ -1495,7 +1495,7 @@
     }
     .footer-area-2 {
         background-image: none !important;
-        background: none !important;
+        background: black !important;
     }
     .footer-widget .widget-title {
         font-size: 20px;

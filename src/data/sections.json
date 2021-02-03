@@ -173,7 +173,7 @@
     "sectiontitle_color": "",
     "short_description": "Engage your clients and stakeholders, through two-way SMS and Voice communication, surveys, analytics and deep conversations.",
     "btn_text": "View Details",
-    "btn_url": "#",
+    "btn_url": "/#services",
     "featurescontent1": [
       {
         "title": "BULK SMS",
@@ -628,28 +628,34 @@
     "short_description": "",
     "items":[
         {
-          "title": "Get free Sender ID for safaricom and airtel and 15,000 SMSes when you pay  KES 15,000",
+          "title": "SMS and Voice Communication Platform",
           "icon": "assets/img/service/project.png",
           "url": "#",
-          "content": "We help you integrate SMS into you core ERP and internal system to enable communication with your customers, enabling you to send SMS receipts, automated utility bills reminders, appointments and payment confirmations . "
+          "content": "Engage your clients and stakeholders, through two-way SMS and Voice communication, surveys, analytics and deep conversations."
         },
         {
-          "title": "Bulk Airtime ",
+          "title": "Bulk Airtime Portal",
           "icon": "assets/img/service/hiring.png",
           "url": "#",
           "content": "Transfer or topup airtime to employees and customers and get reports for monthly used airtime amount."
         },
         {
-          "title": "USSD",
+          "title": "SMS and Airtime APIs",
           "icon": "assets/img/service/checklist.png",
           "url": "#",
-          "content": " Build real time interactive experiences for your users that is accessible on both feature and smartphones. Easily integrate our simple and reliable USSD API and start delivering scalable solutions to your users! ."
+          "content": "We provide quick integrations of SMS and Airtime APIs to your existing and new systems."
         },
         {
-          "title": "Two way SMS",
+          "title": "M-Pesa Payments Portal",
           "icon": "assets/img/service/analytics.png",
           "url": "#",
-          "content": "Build a solution that provides two-way communication service using short codes. Whether you are looking to share information with you users or collect feedback, two way SMS is a great way to enrich customer engagement."
+          "content": "Pay individuals and businesses instantly, manage and track your money from one spot"
+        },
+        {
+          "title": "Mobile Apps and Custom Software Development ",
+          "icon": "assets/img/service/analytics.png",
+          "url": "#",
+          "content": "We use cutting edge technologies to develop high end mobile apps and custom software to meet your needs. We develop Mobile Apps on Android, IOS, Web Applications, Communication Platforms and USSD Applications."
         }
       ]
  
@@ -1508,29 +1514,21 @@
     "sectiioncolor":"Asked Questions",
     "items":[
       {
-        "title":"How do i pay?",
+        "title":"What is BULK SMS?",
         "class":"show",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+        "content": "Bulk SMS (messaging) is the dissemination of large numbers of SMS messages for delivery to mobile phone terminals. It is used by media companies, enterprises, banks and consumer brands for a variety of purposes including entertainment, enterprise and mobile marketing"
       },
       {
-        "title":"How long does delivery take?",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+        "title":"What is Short Code?",
+        "content": "Short Codes, or short numbers, are short digit sequences, significantly shorter than telephone numbers, that are used to address messages in the Multimedia Messaging System and short message service systems of mobile network operators. In addition to messaging, they may be used in abbreviated dialing."
       },      
       {
-        "title":"How is the payment methode?",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+        "title":"What is IVR (Interactive voice response)?",
+        "content": "Interactive Vice Response (IVR) is a technology that allows humans to interact with a computer-operated phone system through the use of voice and DTMF tones input via a keypad. This technology  allows incoming callers to navigate a phone system before talking to a human operator. IVR allows businesses to interact with callers through a series of automated menus, often enabling the customer to self-serve for faster resolution"
       },      
       {
-        "title":"When will i receive my refund?",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
-      },
-      {
-        "title":"How long does delivery take?",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
-      },      
-      {
-        "title":"How much is the shipping?",
-        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+        "title":"What is APIs?",
+        "content": "An Application Programming Interface (API) is a computing interface that defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc"
       }
     ]
 },

@@ -106,15 +106,19 @@ class Navbar extends Component {
                                         <li><Link to="/home-v9">Hosting</Link></li>
                                     </ul> */}
                                 </li>
-                                <li><Link to="/about">About4</Link></li>
+                                <li><Link to="/about">About</Link></li>
                                 <li className="menu-item-has-children"><Link to="/services">Service</Link>     
                                    <ul className="sub-menu">
-  
-                                        <li><Link to="/feedback-center">Feedbackk Center</Link></li>
-                                        <li><Link to="/work-processing">Bulk Airtime Portal</Link></li>
+                                   <li><Link to="/services">All Services </Link></li>
+
+                                        <li><Link to="/work-processing">Feedback Center</Link></li>
+                                        <li><Link to="/home-v7">Bulk Airtime Portal </Link></li>
+                                        <li><Link to="/home-v8">M-Pesa Payments Portal</Link></li>
+                                        <li><Link to="/home-v9">Mobile Apps and Custom Software Development</Link></li>
+                                        {/* <li><Link to="/work-processing">Bulk Airtime Portal</Link></li>
                                         <li><Link to="/work-processing">M-Pesa Payments Portal</Link></li>
                                         <li><Link to="/work-processing">SMS and Airtime APIs</Link></li>
-                                        <li><Link to="/work-processing">Mobile Apps and Custom Software Development</Link></li>
+                                        <li><Link to="/work-processing">Mobile Apps and Custom Software Development</Link></li> */}
                                     </ul>
                                 </li> 
                                 <li><Link to="/pricing">Pricing</Link></li>
@@ -146,6 +150,7 @@ class Navbar extends Component {
                                 <li>
                                     <Link to="/contact">Contact</Link>
                                 </li>
+                                      <li><Link to="/faq">Help</Link></li>
                             </ul>
                         </div>
                         <div className="nav-right-content">

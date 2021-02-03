@@ -10,7 +10,7 @@ const WorkProcessingPage = () => {
         <Navbar />
      
         <WorkProcessing customclass="pd-top-120" />
-        <Subscribe />
+        {/* <Subscribe /> */}
         <FooterV2 />
     </div>
 }

@@ -9,10 +9,10 @@ import FooterV2 from './global-components/footer-v2';
 const FaqPage = () => {
     return <div>
         <Navbar />
-        <PageHeader headertitle="FAQ" />
-        <Faq customclass="pd-top-120 " />
-        <GetInTouch />
-        <Subscribe />
+        {/* <PageHeader headertitle="" /> */}
+         <Faq customclass="pd-top-120 " /> 
+        {/* <GetInTouch />
+        <Subscribe /> */}
         <FooterV2 />
     </div>
 }

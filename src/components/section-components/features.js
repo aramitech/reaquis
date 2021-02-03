@@ -79,6 +79,7 @@ class Features extends Component {
                                     <h6>Mobile Apps and Custom Software Development</h6>
                                     <p>
                                     We use cutting edge technologies to develop high end mobile apps and custom software to meet your needs.
+                                    We develop Mobile Apps on Android, IOS, Web Applications, Communication Platforms and USSD Applications.
                                     </p>
                                   </div>
                                 </div>
