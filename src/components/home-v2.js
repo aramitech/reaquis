@@ -25,11 +25,7 @@ const Home_V2 = () => {
         <PricingTable3 />
         <TestimonialV2 />
 
-    <div className={s.root}>
-      <Toolbar />
-      <main className={s.content}>{children}</main>
-      <CutomerChat />
-    </div>
+
   
         <FooterV2 />
         
